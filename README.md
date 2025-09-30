@@ -1,7 +1,6 @@
 # FUTURE_DS_02
 This is the second task from Future Interns Data Analysis Internship.
 ![First Image](https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task2%20summary.png)
-![Second Image](https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task%202.png)
 
 The task included:
 1, Understanding Marketing Analytic Fundementals.
