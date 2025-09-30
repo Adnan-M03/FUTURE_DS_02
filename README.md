@@ -1,7 +1,7 @@
 # FUTURE_DS_02
 This is the second task from Future Interns Data Analysis Internship.
-![First Image]{https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task%202%20Summary.pdf}
-![Second Image]{https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task%202.png}
+![First Image](https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task%202%20Summary.pdf)
+![Second Image](https://github.com/Adnan-M03/FUTURE_DS_02/blob/main/Task%202.png)
 
 The task included
 1, Understanding Marketing Analytic Fundementals.
@@ -10,4 +10,4 @@ The task included
 4, Writing insights extracted and giving recommendation
 5, Building a Power Bi dashboard
 
-[Link to the Dataset]{https://www.kaggle.com/datasets/marceaxl82/shopping-mall-paid-search-campaign-dataset/data}
+[Link to the Dataset](https://www.kaggle.com/datasets/marceaxl82/shopping-mall-paid-search-campaign-dataset/data)
